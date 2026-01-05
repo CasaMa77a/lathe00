@@ -1,0 +1,18 @@
+{
+  "kind": "singleType",
+  "collectionName": "music_testos",
+  "info": {
+    "singularName": "music-testo",
+    "pluralName": "music-testos",
+    "displayName": "music testo"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "text": {
+      "type": "blocks"
+    }
+  }
+}
