@@ -1,1 +1,7 @@
-export default () => ({});
+export default () => ({
+
+
+    'sortable-entries': {
+    enabled: true,
+  },
+});

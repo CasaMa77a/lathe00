@@ -27,7 +27,10 @@
     "descrizione": {
       "type": "text"
     },
-    "order": {
+     "filtro": {
+      "type": "text"
+    },
+    "sortOrder": {
       "type": "integer"
     }
   }
